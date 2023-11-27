@@ -1,4 +1,12 @@
-main: io.jcurtis.kotlinexample.KotlinPaper
+main: io.jcurtis.telefee.TeleFee
 version: 1.0
-name: KotlinPaper
-api-version: 1.19
+name: TeleFee
+commands:
+  telefee:
+    description: TeleFee command
+    usage: /<command>
+    aliases: [tpf, tfee]
+  tpaccept:
+    description: TeleFee accept command
+    usage: /<command>
+    aliases: [tpa]

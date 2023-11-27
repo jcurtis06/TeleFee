@@ -1,0 +1,6 @@
+# Whether to use levels or XP points
+levels: true
+# The cost of teleporting in levels or points (see above)
+cost: 1
+# How long before a request expires (in seconds)
+expiration: 30

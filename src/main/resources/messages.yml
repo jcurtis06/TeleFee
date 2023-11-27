@@ -1,0 +1,13 @@
+prefix: "§8[§3§lTPF§r§8]"
+
+request-sent: "§7Teleport request sent to §a%player%§7!"
+request-cost: "§7It will cost §a%cost% §7if they accept!"
+
+request-received: "§7Teleport request received from §a%player%§7!"
+request-accept: "§7Use §a/tpaccept§7 to allow them to teleport to you"
+request-expiry: "§8This request will expire in §a%expiration% seconds"
+
+request-accepted: "§7Teleported §a%player%§7 to you!"
+teleported: "§7You have been teleported to §a%player%§7!"
+
+error: "§c%error% §8%remedy%"
